@@ -1,6 +1,6 @@
 # Util.js
 
-JavaScript基础工具类，针对不同版本浏览器内核兼容性提供方便的API。
+JavaScript基础工具类，针对不同版本浏览器内核兼容性提供方便的API!
 
 ## 下载
 
