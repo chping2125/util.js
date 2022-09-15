@@ -1,10 +1,10 @@
 # Util.js
 
-JavaScript基础工具类，针对不同版本浏览器内核兼容性提供方便的API!
+JavaScript基础工具类，针对不同版本浏览器内核兼容性提供方便的API。
 
 ## 下载
 
-1. [Fork](https://github.com/chping2125/Util.js)到你的Git仓库，然后检出到你本地即可!
+1. [Fork](https://github.com/chping2125/Util.js)到你的Git仓库，然后检出到你本地即可。
 2. 点击这里，下载[ZIP压缩版](https://github.com/chping2125/Util.js/archive/master.zip).
 
 ## 使用
